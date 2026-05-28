@@ -37,3 +37,4 @@ if (isFirebaseConfigured) {
 
 export { auth, db, rtdb }
 export default app
+
